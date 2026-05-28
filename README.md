@@ -20,6 +20,15 @@ Using this data, the project evaluates the performance of machine learning metho
 
 ---
 
+## 📊 Key Results
+
+| Metric | Baseline | ML Model | Improvement |
+|--------|----------|----------|-------------|
+| MAE (Temperature) | 1.82K | 1.62K | 11% reduction |
+| Forecast Skill (CRPSS) | — | +0.17 | Adopted into SAMOS operational system |
+
+---
+
 ## 🎯 Objectives
 
 The key objectives of this project are:
